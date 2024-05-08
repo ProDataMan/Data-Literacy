@@ -1944,7 +1944,7 @@ Open the SalesData.csv using your preferred spreadsheet software (e.g., Excel, G
 :::
 
 
-## Visualizing Data
+## *Visualizing Data
 
 Create various types of charts to visualize the data and identify outliers and distribution patterns.
 
@@ -1952,12 +1952,17 @@ Create various types of charts to visualize the data and identify outliers and d
 - Box Plots
 - Scatter Plots
 
-:::Notes
+:::notes
 Data visualization is essential for understanding patterns and trends within datasets.
 Let's explore three types of charts: histograms, box plots, and scatter plots.
 These visualizations help us uncover insights that might not be apparent from raw data alone.
 
-- **Histograms:** to visualize the distribution of revenue and units sold. (10 minutes)
+:::
+
+## Histograms
+Visualize the distribution of revenue and units sold. (10 minutes)
+
+:::notes
 1. Open your Data Visualization Tool: Launch your preferred data visualization tool, such as Excel or Python with Matplotlib.
 2. Import the Dataset: Import the provided dataset containing sales data.
 3. Select Variables: Choose the "Revenue" or "Units Sold" column as the variable you want to visualize.
@@ -1970,8 +1975,12 @@ These visualizations help us uncover insights that might not be apparent from ra
 5. Customize the Histogram:
 - Adjust the bin size or number of bins to visualize the data effectively.
 - Label the axes and title the chart for clarity.
+:::
 
-- **Box Plots:** to identify the range and distribution of revenue and units sold. (10 minutes)
+## Box Plots
+Identify the range and distribution of revenue and units sold. (10 minutes)
+
+:::notes
 1. Open your Data Visualization Tool: Ensure your data visualization tool is still open.
 2. Select Variables: Choose both the "Revenue" and "Units Sold" columns as the variables you want to visualize.
 3. Create the Box Plot:
@@ -1983,8 +1992,12 @@ These visualizations help us uncover insights that might not be apparent from ra
 4. Customize the Box Plot:
 - Label the axes and title the chart.
 - Optionally, adjust the appearance of the box plot to enhance readability.
+:::
 
-- **Scatter Plots:** to explore the relationship between revenue and units sold. (10 minutes)
+## Scatter Plots
+Explore the relationship between revenue and units sold. (10 minutes)
+
+:::notes
 1. Open your Data Visualization Tool: Ensure your data visualization tool is still open.
 2. Select Variables: Choose both the "Revenue" and "Units Sold" columns as the variables you want to visualize.
 3. Create the Scatter Plot:
@@ -1996,7 +2009,6 @@ These visualizations help us uncover insights that might not be apparent from ra
 4. Customize the Scatter Plot:
 - Label the axes and title the chart.
 - Optionally, add a trendline or adjust the appearance of the scatter plot to improve clarity.
-
 :::
 
 ## Interpretation and Discussion
