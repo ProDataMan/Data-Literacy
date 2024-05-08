@@ -664,9 +664,9 @@ Analyze sales data in the provided SalesData.csv file
 1. **Open the SalesData.csv file:** Using your preferred spreadsheet software (e.g., Excel, Google Sheets).
 2. **Examine the Data:** Review the column headers to understand the variables present in the dataset.
 3. **Identify Trends and Patterns:** Analyze the data to identify any trends or patterns. Look for insights such as:
-    *Best-selling products.
-    *Regional sales variations.
-    *Overall revenue trends over time.
+    - Best-selling products.
+    - Regional sales variations.
+    - Overall revenue trends over time.
 4. **Consider Use Cases:** Think about how this sales data could be used in different industries. Consider scenarios where such data could inform decision-making processes.
 :::
 
@@ -1946,6 +1946,58 @@ Open the SalesData.csv using your preferred spreadsheet software (e.g., Excel, G
 
 ## Visualizing Data
 
+Create various types of charts to visualize the data and identify outliers and distribution patterns.
+
+- Histograms
+- Box Plots
+- Scatter Plots
+
+:::Notes
+Data visualization is essential for understanding patterns and trends within datasets.
+Let's explore three types of charts: histograms, box plots, and scatter plots.
+These visualizations help us uncover insights that might not be apparent from raw data alone.
+
+- **Histograms:** to visualize the distribution of revenue and units sold. (10 minutes)
+1. Open your Data Visualization Tool: Launch your preferred data visualization tool, such as Excel or Python with Matplotlib.
+2. Import the Dataset: Import the provided dataset containing sales data.
+3. Select Variables: Choose the "Revenue" or "Units Sold" column as the variable you want to visualize.
+4. Create the Histogram:
+- In Excel:
+* Select the data range.
+* Go to the "Insert" tab and choose "Histogram" from the Charts group.
+- In Python with Matplotlib:
+* Use the hist() function, passing the selected data as an argument.
+5. Customize the Histogram:
+- Adjust the bin size or number of bins to visualize the data effectively.
+- Label the axes and title the chart for clarity.
+
+- **Box Plots:** to identify the range and distribution of revenue and units sold. (10 minutes)
+1. Open your Data Visualization Tool: Ensure your data visualization tool is still open.
+2. Select Variables: Choose both the "Revenue" and "Units Sold" columns as the variables you want to visualize.
+3. Create the Box Plot:
+- In Excel:
+* Select both columns.
+* Go to the "Insert" tab and choose "Box & Whisker Plot" from the Charts group.
+- In Python with Matplotlib:
+* Use the boxplot() function, passing both columns as arguments.
+4. Customize the Box Plot:
+- Label the axes and title the chart.
+- Optionally, adjust the appearance of the box plot to enhance readability.
+
+- **Scatter Plots:** to explore the relationship between revenue and units sold. (10 minutes)
+1. Open your Data Visualization Tool: Ensure your data visualization tool is still open.
+2. Select Variables: Choose both the "Revenue" and "Units Sold" columns as the variables you want to visualize.
+3. Create the Scatter Plot:
+- In Excel:
+* Select both columns.
+* Go to the "Insert" tab and choose "Scatter" from the Charts group.
+- In Python with Matplotlib:
+* Use the scatter() function, passing both columns as arguments.
+4. Customize the Scatter Plot:
+- Label the axes and title the chart.
+- Optionally, add a trendline or adjust the appearance of the scatter plot to improve clarity.
+
+:::
 
 ## Interpretation and Discussion
 
