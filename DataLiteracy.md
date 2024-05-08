@@ -1959,8 +1959,8 @@ These visualizations help us uncover insights that might not be apparent from ra
 
 :::
 
-## Histograms
-Visualize the distribution of revenue and units sold. (10 minutes)
+## Histograms (10 minutes)
+Visualize the distribution of revenue and units sold.
 
 :::notes
 1. Open your Data Visualization Tool: Launch your preferred data visualization tool, such as Excel or Python with Matplotlib.
@@ -1977,8 +1977,8 @@ Visualize the distribution of revenue and units sold. (10 minutes)
 - Label the axes and title the chart for clarity.
 :::
 
-## Box Plots
-Identify the range and distribution of revenue and units sold. (10 minutes)
+## Box Plots (10 minutes)
+Identify the range and distribution of revenue and units sold.
 
 :::notes
 1. Open your Data Visualization Tool: Ensure your data visualization tool is still open.
@@ -1994,8 +1994,13 @@ Identify the range and distribution of revenue and units sold. (10 minutes)
 - Optionally, adjust the appearance of the box plot to enhance readability.
 :::
 
-## Scatter Plots
-Explore the relationship between revenue and units sold. (10 minutes)
+## Scatter Plots (10 minutes)
+Explore the relationship between revenue and units sold. 
+
+- Open your Data Visualization Tool
+- Select Variables
+- Create the Scatter Plot
+- Customize the Scatter Plot
 
 :::notes
 1. Open your Data Visualization Tool: Ensure your data visualization tool is still open.
@@ -2011,8 +2016,59 @@ Explore the relationship between revenue and units sold. (10 minutes)
 - Optionally, add a trendline or adjust the appearance of the scatter plot to improve clarity.
 :::
 
-## Interpretation and Discussion
+## *Interpretation and Discussion
 
+- Analyzing the Data (10 minutes)
+- Discussing Insights (10 minutes)
+- Reflection and Conclusion (5 minutes)
+
+
+## Analyzing the Data (10 minutes)
+
+- Review the Visualizations
+- Examine Trends and Patterns
+- Note Unexpected Findings
+
+:::notes
+- **Review the Visualizations:** Take a close look at the histograms, box plots, and scatter plots you've created.
+- **Examine Trends and Patterns:** Identify any trends or patterns you observe in the data. Look for:
+    * Common revenue or units sold levels in the histograms.
+    * Variability and outliers in the box plots.
+    * Relationships between revenue and units sold in the scatter plot.
+- **Note Unexpected Findings:** Pay attention to any unexpected or surprising insights you uncover during your analysis.
+
+:::
+
+## Discussing Insights (10 minutes)
+- Brainstorm Use Cases
+- Identify Opportunities
+- Address Challenges
+- Share Insights
+
+:::notes
+- **Brainstorm Use Cases:** Consider how the insights from the visualizations could inform decision-making in a business context.
+- **Identify Opportunities:** Discuss potential opportunities for leveraging the data to:
+    * Optimize product pricing or inventory management based on revenue trends.
+    * Identify regions or products with high demand for targeted marketing efforts.
+    * Understand the relationship between revenue and units sold to forecast future sales.
+- **Address Challenges:** Discuss any challenges or limitations you encountered during the analysis and visualization process.
+- **Share Insights:** Encourage participants to share their observations and insights with the group.
+:::
+
+## *Reflection and Conclusion (5 minutes)
+- Reflect on Learning
+- Summarize Key Insights
+- Consider Future Applications
+- Conclude the Discussion
+
+:::notes
+
+- **Reflect on Learning:** Take a moment to reflect on what you've learned from analyzing and visualizing the data.
+- **Summarize Key Insights:** Summarize the key insights and trends you've identified during the exercise.
+- **Consider Future Applications:** Discuss potential applications of the insights in real-world business scenarios.
+- **Conclude the Discussion:** Wrap up the discussion by emphasizing the importance of data-driven decision-making and the role of data visualization in uncovering actionable insights.
+
+:::
 
 ## Chapter 6: Combining Data Literacy And The Four Levels Of Analytics Agenda
 
