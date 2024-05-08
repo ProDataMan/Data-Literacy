@@ -1,0 +1,78 @@
+{
+  "city": "Seattle",
+  "country": "US",
+  "latitude": 47.6062,
+  "longitude": -122.3321,
+  "weather": [
+    {
+      "date": "2024-05-01",
+      "temperature_max": 65,
+      "temperature_min": 50,
+      "humidity": 70,
+      "wind_speed": 10
+    },
+    {
+      "date": "2024-05-02",
+      "temperature_max": 68,
+      "temperature_min": 52,
+      "humidity": 65,
+      "wind_speed": 12
+    },
+    {
+      "date": "2024-05-03",
+      "temperature_max": 70,
+      "temperature_min": 55,
+      "humidity": 60,
+      "wind_speed": 8
+    },
+    {
+      "date": "2024-05-04",
+      "temperature_max": 72,
+      "temperature_min": 57,
+      "humidity": 55,
+      "wind_speed": 9
+    },
+    {
+      "date": "2024-05-05",
+      "temperature_max": 75,
+      "temperature_min": 58,
+      "humidity": 50,
+      "wind_speed": 11
+    },
+    {
+      "date": "2024-05-06",
+      "temperature_max": 78,
+      "temperature_min": 60,
+      "humidity": 45,
+      "wind_speed": 10
+    },
+    {
+      "date": "2024-05-07",
+      "temperature_max": 80,
+      "temperature_min": 62,
+      "humidity": 40,
+      "wind_speed": 12
+    },
+    {
+      "date": "2024-05-08",
+      "temperature_max": 82,
+      "temperature_min": 65,
+      "humidity": 35,
+      "wind_speed": 13
+    },
+    {
+      "date": "2024-05-09",
+      "temperature_max": 85,
+      "temperature_min": 68,
+      "humidity": 30,
+      "wind_speed": 14
+    },
+    {
+      "date": "2024-05-10",
+      "temperature_max": 88,
+      "temperature_min": 70,
+      "humidity": 25,
+      "wind_speed": 15
+    }
+  ]
+}
