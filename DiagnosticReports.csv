@@ -1,0 +1,91 @@
+Date,Issue_Category,Issue_Description,Severity,Resolved
+2023-01-01,Performance,Slow website loading times,High,No
+2023-01-02,Technical,Database connection errors,Medium,Yes
+2023-01-03,Performance,High server CPU usage,High,No
+2023-01-04,Performance,Website downtime,High,No
+2023-01-05,Technical,Software compatibility issues,Low,Yes
+2023-01-06,Performance,Slow checkout process,Medium,Yes
+2023-01-07,Technical,Network connectivity problems,Medium,Yes
+2023-01-08,Performance,High memory usage on servers,High,No
+2023-01-09,Technical,Data synchronization failures,Medium,Yes
+2023-01-10,Performance,Application crashes,High,No
+2023-01-11,Performance,Slow website loading times,High,No
+2023-01-12,Technical,Database connection errors,Medium,Yes
+2023-01-13,Performance,High server CPU usage,High,No
+2023-01-14,Performance,Website downtime,High,No
+2023-01-15,Technical,Software compatibility issues,Low,Yes
+2023-01-16,Performance,Slow checkout process,Medium,Yes
+2023-01-17,Technical,Network connectivity problems,Medium,Yes
+2023-01-18,Performance,High memory usage on servers,High,No
+2023-01-19,Technical,Data synchronization failures,Medium,Yes
+2023-01-20,Performance,Application crashes,High,No
+2023-01-21,Performance,Slow website loading times,High,No
+2023-01-22,Technical,Database connection errors,Medium,Yes
+2023-01-23,Performance,High server CPU usage,High,No
+2023-01-24,Performance,Website downtime,High,No
+2023-01-25,Technical,Software compatibility issues,Low,Yes
+2023-01-26,Performance,Slow checkout process,Medium,Yes
+2023-01-27,Technical,Network connectivity problems,Medium,Yes
+2023-01-28,Performance,High memory usage on servers,High,No
+2023-01-29,Technical,Data synchronization failures,Medium,Yes
+2023-01-30,Performance,Application crashes,High,No
+2023-01-31,Performance,Slow website loading times,High,No
+2023-02-01,Technical,Database connection errors,Medium,Yes
+2023-02-02,Performance,High server CPU usage,High,No
+2023-02-03,Performance,Website downtime,High,No
+2023-02-04,Technical,Software compatibility issues,Low,Yes
+2023-02-05,Performance,Slow checkout process,Medium,Yes
+2023-02-06,Technical,Network connectivity problems,Medium,Yes
+2023-02-07,Performance,High memory usage on servers,High,No
+2023-02-08,Technical,Data synchronization failures,Medium,Yes
+2023-02-09,Performance,Application crashes,High,No
+2023-02-10,Performance,Slow website loading times,High,No
+2023-02-11,Technical,Database connection errors,Medium,Yes
+2023-02-12,Performance,High server CPU usage,High,No
+2023-02-13,Performance,Website downtime,High,No
+2023-02-14,Technical,Software compatibility issues,Low,Yes
+2023-02-15,Performance,Slow checkout process,Medium,Yes
+2023-02-16,Technical,Network connectivity problems,Medium,Yes
+2023-02-17,Performance,High memory usage on servers,High,No
+2023-02-18,Technical,Data synchronization failures,Medium,Yes
+2023-02-19,Performance,Application crashes,High,No
+2023-02-20,Performance,Slow website loading times,High,No
+2023-02-21,Technical,Database connection errors,Medium,Yes
+2023-02-22,Performance,High server CPU usage,High,No
+2023-02-23,Performance,Website downtime,High,No
+2023-02-24,Technical,Software compatibility issues,Low,Yes
+2023-02-25,Performance,Slow checkout process,Medium,Yes
+2023-02-26,Technical,Network connectivity problems,Medium,Yes
+2023-02-27,Performance,High memory usage on servers,High,No
+2023-02-28,Technical,Data synchronization failures,Medium,Yes
+2023-03-01,Performance,Application crashes,High,No
+2023-03-02,Performance,Slow website loading times,High,No
+2023-03-03,Technical,Database connection errors,Medium,Yes
+2023-03-04,Performance,High server CPU usage,High,No
+2023-03-05,Performance,Website downtime,High,No
+2023-03-06,Technical,Software compatibility issues,Low,Yes
+2023-03-07,Performance,Slow checkout process,Medium,Yes
+2023-03-08,Technical,Network connectivity problems,Medium,Yes
+2023-03-09,Performance,High memory usage on servers,High,No
+2023-03-10,Technical,Data synchronization failures,Medium,Yes
+2023-03-11,Performance,Application crashes,High,No
+2023-03-12,Performance,Slow website loading times,High,No
+2023-03-13,Technical,Database connection errors,Medium,Yes
+2023-03-14,Performance,High server CPU usage,High,No
+2023-03-15,Performance,Website downtime,High,No
+2023-03-16,Technical,Software compatibility issues,Low,Yes
+2023-03-17,Performance,Slow checkout process,Medium,Yes
+2023-03-18,Technical,Network connectivity problems,Medium,Yes
+2023-03-19,Performance,High memory usage on servers,High,No
+2023-03-20,Technical,Data synchronization failures,Medium,Yes
+2023-03-21,Performance,Application crashes,High,No
+2023-03-22,Performance,Slow website loading times,High,No
+2023-03-23,Technical,Database connection errors,Medium,Yes
+2023-03-24,Performance,High server CPU usage,High,No
+2023-03-25,Performance,Website downtime,High,No
+2023-03-26,Technical,Software compatibility issues,Low,Yes
+2023-03-27,Performance,Slow checkout process,Medium,Yes
+2023-03-28,Technical,Network connectivity problems,Medium,Yes
+2023-03-29,Performance,High memory usage on servers,High,No
+2023-03-30,Technical,Data synchronization failures,Medium,Yes
+2023-03-31,Performance,Application crashes,High,No
