@@ -688,8 +688,108 @@ Explore the real-time weather data provided in the WeatherData.json file
 :::
 
 ## Retrieve Real-time Weather Data using API
+- Step 1: Identify the Weather API
+- Step 2: Access the Weather API
+- Step 3: Connect Power BI to the API
+- Step 4: Prepare and Visualize Weather Data
+- Step 5: Refresh Data
+- Step 6: Publish and Share the Report
 
+## Step 1: Identify the Weather API
 
+1. **Research Weather APIs:**
+
+2. **Sign Up for API Access:**
+
+:::notes
+1. **Research Weather APIs:** Choose a weather API that provides the data you need. Popular options include OpenWeatherMap, Weatherstack, and Dark Sky API.
+
+2. **Sign Up for API Access:** Register for an account on the chosen weather API provider's website and obtain an API key, which is usually required for accessing the weather data.
+:::
+
+## Step 2: Access the Weather API
+
+1. **Get API Documentation:**
+
+2. **Test API Endpoint:**
+
+::notes
+1. **Get API Documentation:** Explore the API documentation provided by the weather API provider to understand the available endpoints and data parameters.
+
+2. **Test API Endpoint:** Use a tool like Postman or a web browser to test the API endpoint and ensure that you can retrieve data successfully. Provide necessary parameters such as location coordinates or city name to fetch weather data.
+:::
+## Step 3: Connect Power BI to the API
+
+1. **Open Power BI Desktop:**
+
+2. **Get Data:**
+
+3. **Enter API Endpoint:**
+
+4. **Enter API Key (if required):** 
+
+5. **Transform Data (Optional):**
+
+:::notes
+1. **Open Power BI Desktop:** Launch Power BI Desktop application on your computer.
+
+2. **Get Data:** Click on the "Home" tab in the Power BI ribbon, then select "Get Data" > "Web" from the dropdown menu.
+
+3. **Enter API Endpoint:** In the "From Web" dialog box, enter the URL of the API endpoint provided by the weather API, and click "OK".
+
+4. **Enter API Key (if required):** If the API requires an API key for authentication, Power BI may prompt you to enter the API key. Provide the API key obtained in Step 1, and click "Connect".
+
+5. **Transform Data (Optional):** Power BI will retrieve the data from the API and display it in the "Navigator" window. You can choose the desired data source and click "Load" to import the data into Power BI, or click "Transform Data" to perform data transformations before loading.
+:::
+
+## Step 4: Prepare and Visualize Weather Data
+
+1. **Data Preparation:**
+
+2. **Create Visualizations:**
+
+3. **Customize Visuals:**
+
+4. **Add Interactivity (Optional):**
+
+:::notes
+1. **Data Preparation:** Once the weather data is loaded into Power BI, you can perform data cleaning and transformation tasks using the Power Query Editor. This may include renaming columns, changing data types, filtering rows, and combining multiple data sources if necessary.
+
+2. **Create Visualizations:** After preparing the data, switch to the report view in Power BI. Use the fields from the imported weather data to create visualizations such as line charts, bar charts, or maps to represent weather metrics such as temperature, humidity, or precipitation over time or by location.
+
+3. **Customize Visuals:** Customize the visualizations by adjusting properties such as colors, labels, and axes to make them more visually appealing and informative.
+
+4. **Add Interactivity (Optional):** Enhance the report by adding interactive features such as slicers, filters, or drill-down capabilities to allow users to explore the weather data dynamically.
+:::
+
+## Step 5: Refresh Data
+
+1. **Schedule Data Refresh (Optional):**
+
+2. **Manual Refresh:** 
+
+:::notes
+1. **Schedule Data Refresh (Optional):** If you plan to regularly update the weather data in your Power BI report, configure data refresh settings to automatically retrieve the latest data from the API at specified intervals. This ensures that your report always reflects up-to-date weather information.
+
+2. **Manual Refresh:** Alternatively, you can manually refresh the data in Power BI whenever needed by clicking the "Refresh" button in the Power BI ribbon.
+:::
+
+:::notes
+1. **Schedule Data Refresh (Optional):** If you plan to regularly update the weather data in your Power BI report, configure data refresh settings to automatically retrieve the latest data from the API at specified intervals. This ensures that your report always reflects up-to-date weather information.
+
+2. **Manual Refresh:** Alternatively, you can manually refresh the data in Power BI whenever needed by clicking the "Refresh" button in the Power BI ribbon.
+:::
+## Step 6: Publish and Share the Report
+
+1. **Publish to Power BI Service:**
+
+2. **Share the Report:** 
+:::notes
+
+1. **Publish to Power BI Service:** Once your report is ready, publish it to the Power BI service by clicking "Publish" in the Power BI ribbon. Sign in with your Power BI account credentials and choose a destination workspace to publish the report.
+
+2. **Share the Report:** After publishing, share the report with intended users or stakeholders by providing them with access to the published report URL or embedding the report in a website or application. Users can view and interact with the report online using a web browser or the Power BI mobile app.
+:::
 ## Discussion and Reflection
 
 - Compare Insights
