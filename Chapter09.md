@@ -1,4 +1,4 @@
-######## 09 Data informed decision-making 157
+################ 09 Data informed decision-making 157
 - Steps of the data informed decision-making framework 158
 - Step 1: Ask 160
 - Step 2: Acquire 162
@@ -8,6 +8,7 @@
 - Step 6: Iterate 173
 - Chapter summary and example 175
 - Notes 177
+
 ## Slide 1: Introduction to Data Informed Decision-Making Framework
 
 - Six essential steps.
@@ -15,7 +16,7 @@
 - Incorporate these steps.
 
 :::notes
-The data informed decision-making framework we are employing for this book has six steps. Different frameworks exist, but for a strong decision-making framework to be deployed and used correctly, these six steps need to be incorporated in some way, shape, or form.
+The data informed decision-making framework we are employing for this book has six steps. Please note, there are different frameworks that exist in the world for making a decision, but for a strong decision-making framework to be deployed and used correctly, these six steps need to be incorporated in some way, shape, or form. The six steps are: ask, acquire, analyze, apply, announce, and assess.
 :::
 
 ## Slide 2: Modification of the Framework
@@ -25,7 +26,7 @@ The data informed decision-making framework we are employing for this book has s
 - Enhance understanding.
 
 :::notes
-The steps are modified from Kevin’s work for clarity and purpose. Renamed as ask, acquire, analyze, integrate, decide, and iterate. The modification aims to clarify each step's purpose and understanding.
+I am going to modify these from Kevin’s work a bit and name them: ask, acquire, analyze, integrate, decide, and iterate. The reason for the shift is to clarify more, directed at each purpose and understanding.
 :::
 
 ## Slide 3: Infinite Design and Learning
@@ -35,7 +36,7 @@ The steps are modified from Kevin’s work for clarity and purpose. Renamed as a
 - Decision-making not guaranteed.
 
 :::notes
-The framework's design is infinite, facilitating continuous learning and adaptation. Decision-making is not guaranteed, but the framework enables continuous improvement through reflection and learning.
+Do you notice something about this framework? It is infinite in its design. This is part of the design of data informed decision-making. As we roll through the process of working towards insight and a data informed decision, we must know that nothing is guaranteed with decision-making. This is part of the beauty of a strong data informed decision-making framework: we have the ability to iterate and learn from the past decisions. We never want to sit back and rest on our laurels with our decisions. We want to use our framework and our data literacy skills to improve upon our decisions and help them become even better. Statistics is a field of probabilities and sometimes probabilities do not go the way we want. That is ok, we learn from our decisions, the process, and more.
 :::
 
 ## Slide 4: Iterative Process
@@ -45,7 +46,7 @@ The framework's design is infinite, facilitating continuous learning and adaptat
 - Statistics is a field of probabilities.
 
 :::notes
-We have the ability to iterate and learn from past decisions. The goal is to improve upon our decisions and make them even better. Statistics is a field of probabilities, and we learn from our decisions and the process.
+To help us understand the framework more, let us jump in and understand each step in more detail. Herein we will dive into the different angles of data literacy and how these angles help empower data informed decision-making.
 :::
 
 ## Slide 5: Understanding Each Step
@@ -55,7 +56,7 @@ We have the ability to iterate and learn from past decisions. The goal is to imp
 - Empower decision-making.
 
 :::notes
-Let's dive into each step in more detail and explore different angles of data literacy. We'll understand how these angles empower data informed decision-making.
+Analyze, Integrate, Decide, Iterate, DATA INFORMED DECISION-MAKING, Acquire, Ask.
 :::
 
 ## Slide 6: Conclusion
@@ -65,5 +66,3 @@ Let's dive into each step in more detail and explore different angles of data li
 - Highlight importance.
 
 :::notes
-To conclude the chapter, we'll combine insights into a full picture of decision-making. We'll summarize the chapter's key points and concepts, emphasizing the importance of data informed decision-making in enhancing decision quality.
-:::
