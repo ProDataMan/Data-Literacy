@@ -1,21 +1,210 @@
-Date,Product,Revenue,Units Sold,Region
-2024-05-01,Widget A,1000,50,East
-2024-05-01,Widget B,1500,30,West
-2024-05-02,Widget A,1200,60,North
-2024-05-02,Widget B,1800,40,South
-2024-05-03,Widget A,1100,55,East
-2024-05-03,Widget B,1600,35,West
-2024-05-04,Widget A,1300,65,North
-2024-05-04,Widget B,1700,45,South
-2024-05-05,Widget A,1400,70,East
-2024-05-05,Widget B,1900,50,West
-2024-05-06,Widget A,1500,75,North
-2024-05-06,Widget B,2000,55,South
-2024-05-07,Widget A,1600,80,East
-2024-05-07,Widget B,2100,60,West
-2024-05-08,Widget A,1700,85,North
-2024-05-08,Widget B,2200,65,South
-2024-05-09,Widget A,1800,90,East
-2024-05-09,Widget B,2300,70,West
-2024-05-10,Widget A,1900,95,North
-2024-05-10,Widget B,2400,75,South
+Date,Product,Category,Units_Sold,Revenue,Region
+2023-01-01,Product A,Electronics,25,2500,East
+2023-01-02,Product B,Apparel,35,1750,West
+2023-01-03,Product C,Home & Garden,20,800,North
+2023-01-04,Product D,Electronics,45,4500,South
+2023-01-05,Product E,Health & Beauty,15,300,East
+2023-01-06,Product F,Electronics,30,3000,West
+2023-01-07,Product G,Home & Garden,40,1200,North
+2023-01-08,Product H,Apparel,20,1000,South
+2023-01-09,Product I,Electronics,50,5000,East
+2023-01-10,Product J,Health & Beauty,10,200,West
+2023-01-11,Product K,Apparel,30,1500,North
+2023-01-12,Product L,Home & Garden,35,1050,South
+2023-01-13,Product M,Electronics,40,4000,East
+2023-01-14,Product N,Health & Beauty,25,500,West
+2023-01-15,Product O,Apparel,20,1000,North
+2023-01-16,Product P,Home & Garden,15,450,South
+2023-01-17,Product Q,Electronics,50,5000,East
+2023-01-18,Product R,Health & Beauty,30,600,West
+2023-01-19,Product S,Apparel,40,2000,North
+2023-01-20,Product T,Home & Garden,35,1050,South
+2023-01-21,Product U,Electronics,20,2000,East
+2023-01-22,Product V,Health & Beauty,25,500,West
+2023-01-23,Product W,Apparel,30,1500,North
+2023-01-24,Product X,Home & Garden,15,450,South
+2023-01-25,Product Y,Electronics,40,4000,East
+2023-01-26,Product Z,Health & Beauty,20,400,West
+2023-01-27,Product A,Apparel,45,2250,North
+2023-01-28,Product B,Home & Garden,35,1050,South
+2023-01-29,Product C,Electronics,50,5000,East
+2023-01-30,Product D,Health & Beauty,10,200,West
+2023-01-31,Product E,Apparel,30,1500,North
+2023-02-01,Product F,Home & Garden,40,1200,South
+2023-02-02,Product G,Electronics,20,2000,East
+2023-02-03,Product H,Health & Beauty,25,500,West
+2023-02-04,Product I,Apparel,30,1500,North
+2023-02-05,Product J,Home & Garden,15,450,South
+2023-02-06,Product K,Electronics,40,4000,East
+2023-02-07,Product L,Health & Beauty,20,400,West
+2023-02-08,Product M,Apparel,45,2250,North
+2023-02-09,Product N,Home & Garden,35,1050,South
+2023-02-10,Product O,Electronics,50,5000,East
+2023-02-11,Product P,Health & Beauty,10,200,West
+2023-02-12,Product Q,Apparel,30,1500,North
+2023-02-13,Product R,Home & Garden,40,1200,South
+2023-02-14,Product S,Electronics,20,2000,East
+2023-02-15,Product T,Health & Beauty,25,500,West
+2023-02-16,Product U,Apparel,30,1500,North
+2023-02-17,Product V,Home & Garden,15,450,South
+2023-02-18,Product W,Electronics,40,4000,East
+2023-02-19,Product X,Health & Beauty,20,400,West
+2023-02-20,Product Y,Apparel,45,2250,North
+2023-02-21,Product Z,Home & Garden,35,1050,South
+2023-02-22,Product A,Electronics,50,5000,East
+2023-02-23,Product B,Health & Beauty,10,200,West
+2023-02-24,Product C,Apparel,30,1500,North
+2023-02-25,Product D,Home & Garden,40,1200,South
+2023-02-26,Product E,Electronics,20,2000,East
+2023-02-27,Product F,Health & Beauty,25,500,West
+2023-02-28,Product G,Apparel,30,1500,North
+2023-03-01,Product H,Home & Garden,15,450,South
+2023-03-02,Product I,Electronics,40,4000,East
+2023-03-03,Product J,Health & Beauty,20,400,West
+2023-03-04,Product K,Apparel,45,2250,North
+2023-03-05,Product L,Home & Garden,35,1050,South
+2023-03-06,Product M,Electronics,50,5000,East
+2023-03-07,Product N,Health & Beauty,10,200,West
+2023-03-08,Product O,Apparel,30,1500,North
+2023-03-09,Product P,Home & Garden,40,1200,South
+2023-03-10,Product Q,Electronics,20,2000,East
+2023-03-11,Product R,Health & Beauty,25,500,West
+2023-03-12,Product S,Apparel,30,1500,North
+2023-03-13,Product T,Home & Garden,15,450,South
+2023-03-14,Product U,Electronics,40,4000,East
+2023-03-15,Product V,Health & Beauty,20,400,West
+2023-03-16,Product W,Apparel,45,2250,North
+2023-03-17,Product X,Home & Garden,35,1050,South
+2023-03-18,Product Y,Electronics,50,5000,East
+2023-03-19,Product Z,Health & Beauty,10,200,West
+2023-03-20,Product A,Apparel,30,1500,North
+2023-03-21,Product B,Home & Garden,40,1200,South
+2023-03-22,Product C,Electronics,20,2000,East
+2023-03-23,Product D,Health & Beauty,25,500,West
+2023-03-24,Product E,Apparel,30,1500,North
+2023-03-25,Product F,Home & Garden,15,450,South
+2023-03-26,Product G,Electronics,40,4000,East
+2023-03-27,Product H,Health & Beauty,20,400,West
+2023-03-28,Product I,Apparel,45,2250,North
+2023-03-29,Product J,Home & Garden,35,1050,South
+2023-03-30,Product K,Electronics,50,5000,East
+2023-03-31,Product L,Health & Beauty,10,200,West
+2023-04-01,Product M,Apparel,30,1500,North
+2023-04-02,Product N,Home & Garden,40,1200,South
+2023-04-03,Product O,Electronics,20,2000,East
+2023-04-04,Product P,Health & Beauty,25,500,West
+2023-04-05,Product Q,Apparel,30,1500,North
+2023-04-06,Product R,Home & Garden,15,450,South
+2023-04-07,Product S,Electronics,40,4000,East
+2023-04-08,Product T,Health & Beauty,20,400,West
+2023-04-09,Product U,Apparel,45,2250,North
+2023-04-10,Product V,Home & Garden,35,1050,South
+2023-04-11,Product W,Electronics,50,5000,East
+2023-04-12,Product X,Health & Beauty,10,200,West
+2023-04-13,Product Y,Apparel,30,1500,North
+2023-04-14,Product Z,Home & Garden,40,1200,South
+2023-04-15,Product A,Electronics,20,2000,East
+2023-04-16,Product B,Health & Beauty,25,500,West
+2023-04-17,Product C,Apparel,30,1500,North
+2023-04-18,Product D,Home & Garden,15,450,South
+2023-04-19,Product E,Electronics,40,4000,East
+2023-04-20,Product F,Health & Beauty,20,400,West
+2023-04-21,Product G,Apparel,45,2250,North
+2023-04-22,Product H,Home & Garden,35,1050,South
+2023-04-23,Product I,Electronics,50,5000,East
+2023-04-24,Product J,Health & Beauty,10,200,West
+2023-04-25,Product K,Apparel,30,1500,North
+2023-04-26,Product L,Home & Garden,40,1200,South
+2023-04-27,Product M,Electronics,20,2000,East
+2023-04-28,Product N,Health & Beauty,25,500,West
+2023-04-29,Product O,Apparel,30,1500,North
+2023-04-30,Product P,Home & Garden,15,450,South
+2023-05-01,Product Q,Electronics,40,4000,East
+2023-05-02,Product R,Health & Beauty,20,400,West
+2023-05-03,Product S,Apparel,45,2250,North
+2023-05-04,Product T,Home & Garden,35,1050,South
+2023-05-05,Product U,Electronics,50,5000,East
+2023-05-06,Product V,Health & Beauty,10,200,West
+2023-05-07,Product W,Apparel,30,1500,North
+2023-05-08,Product X,Home & Garden,40,1200,South
+2023-05-09,Product Y,Electronics,20,2000,East
+2023-05-10,Product Z,Health & Beauty,25,500,West
+2023-05-11,Product A,Apparel,30,1500,North
+2023-05-12,Product B,Home & Garden,15,450,South
+2023-05-13,Product C,Electronics,40,4000,East
+2023-05-14,Product D,Health & Beauty,20,400,West
+2023-05-15,Product E,Apparel,45,2250,North
+2023-05-16,Product F,Home & Garden,35,1050,South
+2023-05-17,Product G,Electronics,50,5000,East
+2023-05-18,Product H,Health & Beauty,10,200,West
+2023-05-19,Product I,Apparel,30,1500,North
+2023-05-20,Product J,Home & Garden,40,1200,South
+2023-05-21,Product K,Electronics,20,2000,East
+2023-05-22,Product L,Health & Beauty,25,500,West
+2023-05-23,Product M,Apparel,30,1500,North
+2023-05-24,Product N,Home & Garden,15,450,South
+2023-05-25,Product O,Electronics,40,4000,East
+2023-05-26,Product P,Health & Beauty,20,400,West
+2023-05-27,Product Q,Apparel,45,2250,North
+2023-05-28,Product R,Home & Garden,35,1050,South
+2023-05-29,Product S,Electronics,50,5000,East
+2023-05-30,Product T,Health & Beauty,10,200,West
+2023-05-31,Product U,Apparel,30,1500,North
+2023-06-01,Product V,Home & Garden,40,1200,South
+2023-06-02,Product W,Electronics,20,2000,East
+2023-06-03,Product X,Health & Beauty,25,500,West
+2023-06-04,Product Y,Apparel,30,1500,North
+2023-06-05,Product Z,Home & Garden,15,450,South
+2023-06-06,Product A,Electronics,40,4000,East
+2023-06-07,Product B,Health & Beauty,20,400,West
+2023-06-08,Product C,Apparel,45,2250,North
+2023-06-09,Product D,Home & Garden,35,1050,South
+2023-06-10,Product E,Electronics,50,5000,East
+2023-06-11,Product F,Health & Beauty,10,200,West
+2023-06-12,Product G,Apparel,30,1500,North
+2023-06-13,Product H,Home & Garden,40,1200,South
+2023-06-14,Product I,Electronics,20,2000,East
+2023-06-15,Product J,Health & Beauty,25,500,West
+2023-06-16,Product K,Apparel,30,1500,North
+2023-06-17,Product L,Home & Garden,15,450,South
+2023-06-18,Product M,Electronics,40,4000,East
+2023-06-19,Product N,Health & Beauty,20,400,West
+2023-06-20,Product O,Apparel,45,2250,North
+2023-06-21,Product P,Home & Garden,35,1050,South
+2023-06-22,Product Q,Electronics,50,5000,East
+2023-06-23,Product R,Health & Beauty,10,200,West
+2023-06-24,Product S,Apparel,30,1500,North
+2023-06-25,Product T,Home & Garden,40,1200,South
+2023-06-26,Product U,Electronics,20,2000,East
+2023-06-27,Product V,Health & Beauty,25,500,West
+2023-06-28,Product W,Apparel,30,1500,North
+2023-06-29,Product X,Home & Garden,15,450,South
+2023-06-30,Product Y,Electronics,40,4000,East
+2023-07-01,Product Z,Health & Beauty,20,400,West
+2023-07-02,Product A,Apparel,45,2250,North
+2023-07-03,Product B,Home & Garden,35,1050,South
+2023-07-04,Product C,Electronics,50,5000,East
+2023-07-05,Product D,Health & Beauty,10,200,West
+2023-07-06,Product E,Apparel,30,1500,North
+2023-07-07,Product F,Home & Garden,40,1200,South
+2023-07-08,Product G,Electronics,20,2000,East
+2023-07-09,Product H,Health & Beauty,25,500,West
+2023-07-10,Product I,Apparel,30,1500,North
+2023-07-11,Product J,Home & Garden,15,450,South
+2023-07-12,Product K,Electronics,40,4000,East
+2023-07-13,Product L,Health & Beauty,20,400,West
+2023-07-14,Product M,Apparel,45,2250,North
+2023-07-15,Product N,Home & Garden,35,1050,South
+2023-07-16,Product O,Electronics,50,5000,East
+2023-07-17,Product P,Health & Beauty,10,200,West
+2023-07-18,Product Q,Apparel,30,1500,North
+2023-07-19,Product R,Home & Garden,40,1200,South
+2023-07-20,Product S,Electronics,20,2000,East
+2023-07-21,Product T,Health & Beauty,25,500,West
+2023-07-22,Product U,Apparel,30,1500,North
+2023-07-23,Product V,Home & Garden,15,450,South
+2023-07-24,Product W,Electronics,40,4000,East
+2023-07-25,Product X,Health & Beauty,20,400,West
+2023-07-26,Product Y,Apparel,45,2250,North
+2023-07-27,Product Z,Home & Garden,35,1050,South
+2023-07-28,Product A,Electronics,50,5000,East
